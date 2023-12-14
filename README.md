@@ -26,17 +26,15 @@ editor_options:
 
 [(Back to top)](#table-of-contents)
 
-Repository:
+**Repository**: [texas-grid-blackout-2021](https://github.com/oksanaprotsukha/texas-grid-blackout-2021.git)
 
-``` shell
-https://github.com/oksanaprotsukha/texas-grid-blackout-2021.git
-```
 
 The analysis is written in R-language. The following tools are required
-to rerun the analysis: - R-ready environment (Rstudio, VSCode) - The
-data is not included in the repo due ot its size. Instead, it can be
-downloaded data from
-[here](https://drive.google.com/file/d/1bTk62xwOzBqWmmT791SbYbHxnCdjmBtw/view?usp=sharing).
+to rerun the analysis: \
+-   R-ready environment (`RStudio`, `VSCode`),\
+-   The data is not included in the repo due ot its size. Instead, it can be downloaded data 
+from [here](https://drive.google.com/file/d/1bTk62xwOzBqWmmT791SbYbHxnCdjmBtw/view?usp=sharing).
+\
 
 # File structure {#file-structure}
 
